@@ -1,15 +1,28 @@
-# Description
+## Feature Request
 
-Please include a summary of the change and which issue is fixed when no corresponding ticket is available. Add additional informations the reviewers should know.
+### Description
+Please describe the feature you are implementing.
 
-[ ] This change requires a UI-Kit update - inform Alex Tirado
+### Motivation and Context
+Explain the context and motivation for adding this feature. Why is it needed?
 
- 
+### Related Issues
+List any related issues or discussions.
 
-# What should be tested?
+- Relates to #
 
-## Are they some special informations required to test something?
+### Proposed Changes
+Describe the changes you are proposing and how they address the issue or feature request.
 
-# Reviewers:
+### Testing
+Please describe the tests you performed to verify the feature.
 
-Which persons should review this PR? Add person with @mentions
+- [ ] Test 1
+- [ ] Test 2
+- [ ] Test 3
+
+### Screenshots (if applicable)
+Add any relevant screenshots to illustrate the new feature.
+
+### Additional Information
+Add any additional information, context, or comments about the feature request here.
